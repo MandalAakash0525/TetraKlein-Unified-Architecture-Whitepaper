@@ -6,6 +6,8 @@
 
 ---
 
+[![Read the Full TetraKlein Whitepaper](https://img.shields.io/badge/Whitepaper-Read%20Now-blue?style=for-the-badge)](docs/TetraKlein_UnitedArchitecture.pdf)
+
 ## Overview
 
 **TetraKlein** is a unified computational, cryptographic, and extended-reality (XR) architecture developed by **Baramay Station Research Inc.**, a Canadian non-profit research organization.  
