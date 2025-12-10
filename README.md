@@ -59,6 +59,7 @@ TK-Original-Paper/                       # Archival 2025 manuscript (unchanged)
 
 
 /ref
+
 examples/                                # Minimal examples for TK-VM, sponge, routing
 
 proving/                                 # zk test artifacts (SP1, RISC Zero)
