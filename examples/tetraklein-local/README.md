@@ -166,7 +166,6 @@ The script exits immediately with an explicit `[FAIL]` message logged.
 ### Contact / Attribution
 
 Principal Systems Architect  
-Advanced Systems Directorate  
 Baramay Station Research Inc.  
 Michael Tass MacDonald  
 14 December 2025
