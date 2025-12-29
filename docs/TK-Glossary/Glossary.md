@@ -145,5 +145,5 @@
 | D∞ (Twin Limit) | DTC limit state: D_∞ = lim_{t→∞} D_t. Represents fully converged Digital Twin behaviour. |
 | ∞ (XR Pose Limit) | Asymptotic XR orientation: ∞ = lim_{t→∞} R_t. Must satisfy orthonormality and perceptual constraints. |
 | H∞ (Ledger Infinite Root) | Infinite-horizon ledger root: H_∞ = lim_{h→∞} root_h. Guarantees ledger non-reversion under bounded gossip faults. |
-| IVC (Incremental Verifiable Computation) is the recursive proof aggregation framework that chains per-frame or per-epoch proofs across the XR/TSU/DTC/Ledger stack. |
+| IVC (Incremental Verifiable Computation) | IVC is the recursive proof aggregation framework that chains per-frame or per-epoch proofs across the XR/TSU/DTC/Ledger stack. |
 | S∞ (Global Stability Envelope) | Global stability envelope: S_∞ = XR ∩ TSU ∩ DTC ∩ HBB. Defines the complete infinite-horizon safety boundary for TetraKlein. |
